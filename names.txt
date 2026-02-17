@@ -1,1 +1,2 @@
 boss, cjsharpe2, Sharpe, Calvin
+employee,ebogenschutz,Bogenschutz,Erin
